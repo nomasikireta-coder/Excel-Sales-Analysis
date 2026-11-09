@@ -1,0 +1,181 @@
+order_id,order_date,product,category,region,channel,quantity,unit_price_usd,discount_rate,revenue_usd
+135,2025-01-02,Laptop Stand,Accessories,West,Wholesale,1,32,0,32
+16,2025-01-03,Webcam,Electronics,North,Online,1,74,0,74
+149,2025-01-05,Monitor,Electronics,North,Online,5,215,0,1075
+67,2025-01-07,Wireless Mouse,Accessories,East,Online,2,19,0.05,36.1
+55,2025-01-09,Wireless Mouse,Accessories,South,Wholesale,1,19,0.1,17.1
+131,2025-01-11,Wireless Mouse,Accessories,North,Wholesale,4,19,0.15,64.6
+69,2025-01-12,Wireless Mouse,Accessories,South,Wholesale,4,19,0.05,72.2
+121,2025-01-12,Wireless Mouse,Accessories,East,Retail,2,19,0.15,32.3
+52,2025-01-14,Headphones,Electronics,North,Online,1,59,0,59
+140,2025-01-14,Webcam,Electronics,North,Retail,2,74,0.05,140.6
+2,2025-01-15,Mechanical Keyboard,Accessories,North,Online,1,68,0.1,61.2
+24,2025-01-18,Mechanical Keyboard,Accessories,North,Wholesale,5,68,0.05,323.0
+98,2025-01-20,Monitor,Electronics,North,Retail,2,215,0.15,365.5
+152,2025-01-20,Laptop Stand,Accessories,North,Wholesale,2,32,0.05,60.8
+159,2025-01-20,Monitor,Electronics,North,Wholesale,2,215,0.05,408.5
+9,2025-01-23,Monitor,Electronics,East,Retail,1,215,0.15,182.75
+162,2025-01-23,Headphones,Electronics,North,Wholesale,1,59,0,59
+101,2025-01-24,Monitor,Electronics,East,Wholesale,1,215,0.1,193.5
+127,2025-01-24,External SSD,Electronics,South,Retail,5,110,0.15,467.5
+15,2025-01-25,External SSD,Electronics,South,Wholesale,1,110,0,110
+180,2025-01-29,Webcam,Electronics,North,Online,1,74,0,74
+126,2025-02-04,External SSD,Electronics,West,Retail,1,110,0,110
+160,2025-02-10,Headphones,Electronics,North,Retail,2,59,0,118
+177,2025-02-11,Mechanical Keyboard,Accessories,South,Online,4,68,0,272
+165,2025-02-12,Webcam,Electronics,North,Wholesale,5,74,0.05,351.5
+73,2025-02-13,Headphones,Electronics,West,Wholesale,5,59,0,295
+104,2025-02-13,Mechanical Keyboard,Accessories,West,Online,2,68,0,136
+6,2025-02-18,Webcam,Electronics,East,Online,3,74,0,222
+157,2025-02-20,Mechanical Keyboard,Accessories,West,Wholesale,5,68,0.1,306.0
+155,2025-02-24,Webcam,Electronics,North,Wholesale,4,74,0,296
+169,2025-02-26,Monitor,Electronics,South,Retail,4,215,0.1,774.0
+14,2025-02-27,Mechanical Keyboard,Accessories,North,Retail,5,68,0.15,289.0
+42,2025-02-27,Webcam,Electronics,East,Online,5,74,0,370
+37,2025-03-01,USB-C Hub,Accessories,East,Retail,4,45,0.15,153.0
+81,2025-03-01,External SSD,Electronics,South,Online,4,110,0.05,418.0
+179,2025-03-02,Webcam,Electronics,East,Online,3,74,0.15,188.7
+32,2025-03-03,Wireless Mouse,Accessories,North,Wholesale,4,19,0.1,68.4
+91,2025-03-04,External SSD,Electronics,South,Retail,3,110,0.05,313.5
+116,2025-03-06,USB-C Hub,Accessories,West,Wholesale,2,45,0.1,81.0
+153,2025-03-07,USB-C Hub,Accessories,East,Retail,2,45,0,90
+31,2025-03-08,USB-C Hub,Accessories,North,Online,2,45,0.1,81.0
+154,2025-03-11,Headphones,Electronics,East,Online,4,59,0.1,212.4
+95,2025-03-19,Headphones,Electronics,East,Online,5,59,0,295
+136,2025-03-19,External SSD,Electronics,South,Wholesale,5,110,0,550
+3,2025-03-22,Webcam,Electronics,West,Wholesale,4,74,0.1,266.4
+12,2025-03-22,Laptop Stand,Accessories,East,Retail,2,32,0,64
+75,2025-03-23,Webcam,Electronics,West,Online,4,74,0.15,251.6
+100,2025-03-23,Mechanical Keyboard,Accessories,North,Retail,3,68,0,204
+125,2025-03-24,Mechanical Keyboard,Accessories,East,Wholesale,5,68,0.1,306.0
+51,2025-03-25,External SSD,Electronics,South,Wholesale,3,110,0,330
+147,2025-03-30,Webcam,Electronics,North,Retail,4,74,0.15,251.6
+167,2025-03-30,Laptop Stand,Accessories,West,Retail,3,32,0.15,81.6
+120,2025-03-31,Headphones,Electronics,East,Online,2,59,0.05,112.1
+40,2025-04-02,Webcam,Electronics,West,Retail,4,74,0.05,281.2
+79,2025-04-02,Headphones,Electronics,East,Retail,4,59,0.05,224.2
+88,2025-04-04,USB-C Hub,Accessories,North,Retail,2,45,0,90
+178,2025-04-05,External SSD,Electronics,East,Retail,5,110,0.1,495.0
+8,2025-04-07,USB-C Hub,Accessories,South,Online,3,45,0.15,114.75
+36,2025-04-10,Laptop Stand,Accessories,South,Wholesale,2,32,0,64
+164,2025-04-20,Wireless Mouse,Accessories,East,Retail,1,19,0,19
+170,2025-04-20,Wireless Mouse,Accessories,South,Retail,5,19,0.1,85.5
+29,2025-04-23,USB-C Hub,Accessories,North,Retail,2,45,0.15,76.5
+144,2025-04-25,Webcam,Electronics,North,Retail,1,74,0.05,70.3
+54,2025-04-28,External SSD,Electronics,North,Retail,1,110,0,110
+26,2025-04-29,Headphones,Electronics,East,Retail,5,59,0,295
+70,2025-04-30,Mechanical Keyboard,Accessories,East,Online,4,68,0,272
+107,2025-05-02,USB-C Hub,Accessories,North,Wholesale,3,45,0.1,121.5
+133,2025-05-03,Webcam,Electronics,North,Wholesale,2,74,0,148
+106,2025-05-06,Laptop Stand,Accessories,East,Online,3,32,0.05,91.2
+163,2025-05-09,Webcam,Electronics,South,Retail,3,74,0.15,188.7
+21,2025-05-10,USB-C Hub,Accessories,South,Online,2,45,0.15,76.5
+108,2025-05-11,USB-C Hub,Accessories,West,Online,4,45,0,180
+39,2025-05-15,Monitor,Electronics,South,Retail,2,215,0.15,365.5
+76,2025-05-16,Wireless Mouse,Accessories,West,Wholesale,1,19,0,19
+134,2025-05-18,Mechanical Keyboard,Accessories,South,Retail,5,68,0.05,323.0
+25,2025-05-20,Monitor,Electronics,East,Online,2,215,0.05,408.5
+102,2025-05-20,Mechanical Keyboard,Accessories,East,Wholesale,2,68,0,136
+59,2025-05-23,Mechanical Keyboard,Accessories,North,Wholesale,5,68,0,340
+18,2025-05-24,External SSD,Electronics,East,Wholesale,3,110,0,330
+130,2025-05-30,Webcam,Electronics,West,Wholesale,2,74,0.05,140.6
+173,2025-06-01,Headphones,Electronics,North,Retail,5,59,0,295
+41,2025-06-02,External SSD,Electronics,West,Retail,4,110,0.05,418.0
+46,2025-06-04,Laptop Stand,Accessories,South,Wholesale,2,32,0.15,54.4
+66,2025-06-06,Mechanical Keyboard,Accessories,South,Retail,3,68,0.1,183.6
+175,2025-06-06,Headphones,Electronics,East,Online,4,59,0,236
+33,2025-06-07,Monitor,Electronics,South,Wholesale,2,215,0,430
+30,2025-06-09,Laptop Stand,Accessories,South,Wholesale,5,32,0.15,136.0
+82,2025-06-12,Headphones,Electronics,South,Retail,4,59,0,236
+174,2025-06-16,Mechanical Keyboard,Accessories,West,Retail,1,68,0,68
+129,2025-06-19,Mechanical Keyboard,Accessories,West,Online,2,68,0.05,129.2
+63,2025-06-21,Monitor,Electronics,West,Retail,3,215,0,645
+132,2025-06-21,Headphones,Electronics,North,Online,5,59,0.1,265.5
+96,2025-06-22,Webcam,Electronics,North,Wholesale,1,74,0,74
+49,2025-06-24,Laptop Stand,Accessories,North,Wholesale,3,32,0,96
+89,2025-06-25,Laptop Stand,Accessories,North,Wholesale,2,32,0.1,57.6
+7,2025-06-26,Monitor,Electronics,West,Online,1,215,0.05,204.25
+156,2025-06-27,USB-C Hub,Accessories,North,Wholesale,5,45,0,225
+94,2025-06-30,External SSD,Electronics,North,Retail,5,110,0,550
+123,2025-07-04,Headphones,Electronics,East,Online,4,59,0.05,224.2
+137,2025-07-06,Mechanical Keyboard,Accessories,East,Online,1,68,0.15,57.8
+92,2025-07-10,USB-C Hub,Accessories,North,Online,1,45,0.05,42.75
+38,2025-07-11,Mechanical Keyboard,Accessories,South,Retail,5,68,0,340
+105,2025-07-20,Wireless Mouse,Accessories,North,Wholesale,3,19,0,57
+62,2025-07-22,Mechanical Keyboard,Accessories,East,Retail,2,68,0,136
+71,2025-07-22,Webcam,Electronics,West,Retail,5,74,0.1,333.0
+93,2025-07-25,Mechanical Keyboard,Accessories,East,Retail,3,68,0.15,173.4
+20,2025-07-26,Webcam,Electronics,North,Retail,5,74,0.05,351.5
+1,2025-07-29,Wireless Mouse,Accessories,South,Retail,2,19,0.05,36.1
+103,2025-08-01,Wireless Mouse,Accessories,East,Retail,2,19,0,38
+111,2025-08-03,Monitor,Electronics,West,Retail,4,215,0.1,774.0
+61,2025-08-04,Laptop Stand,Accessories,South,Online,4,32,0.05,121.6
+114,2025-08-05,Monitor,Electronics,South,Wholesale,4,215,0.05,817.0
+44,2025-08-06,Monitor,Electronics,East,Wholesale,3,215,0,645
+113,2025-08-07,Laptop Stand,Accessories,West,Wholesale,4,32,0.05,121.6
+17,2025-08-11,Webcam,Electronics,South,Online,2,74,0.15,125.8
+150,2025-08-13,Wireless Mouse,Accessories,West,Retail,1,19,0.1,17.1
+22,2025-08-15,Monitor,Electronics,North,Retail,3,215,0.05,612.75
+86,2025-08-21,Wireless Mouse,Accessories,North,Online,3,19,0,57
+78,2025-08-24,Webcam,Electronics,North,Online,2,74,0,148
+124,2025-08-24,External SSD,Electronics,West,Wholesale,5,110,0,550
+158,2025-08-26,Monitor,Electronics,East,Online,3,215,0,645
+161,2025-08-26,Laptop Stand,Accessories,South,Wholesale,1,32,0,32
+64,2025-08-28,Webcam,Electronics,South,Online,5,74,0,370
+128,2025-08-28,Headphones,Electronics,South,Retail,2,59,0.15,100.3
+168,2025-08-28,Laptop Stand,Accessories,North,Online,5,32,0.05,152.0
+10,2025-08-30,External SSD,Electronics,South,Online,5,110,0.1,495.0
+50,2025-09-02,Laptop Stand,Accessories,West,Online,1,32,0,32
+118,2025-09-02,Monitor,Electronics,South,Online,1,215,0,215
+43,2025-09-03,USB-C Hub,Accessories,East,Online,3,45,0,135
+11,2025-09-05,External SSD,Electronics,North,Retail,3,110,0.1,297.0
+57,2025-09-05,Mechanical Keyboard,Accessories,West,Online,1,68,0.1,61.2
+65,2025-09-05,External SSD,Electronics,North,Retail,5,110,0.15,467.5
+141,2025-09-05,USB-C Hub,Accessories,South,Retail,3,45,0,135
+19,2025-09-07,Wireless Mouse,Accessories,East,Retail,3,19,0.05,54.15
+143,2025-09-09,USB-C Hub,Accessories,East,Online,4,45,0.05,171.0
+27,2025-09-12,USB-C Hub,Accessories,West,Wholesale,1,45,0,45
+110,2025-09-16,Laptop Stand,Accessories,East,Online,3,32,0.1,86.4
+60,2025-09-19,Monitor,Electronics,East,Online,5,215,0,1075
+83,2025-09-22,External SSD,Electronics,West,Online,3,110,0.1,297.0
+72,2025-09-24,Laptop Stand,Accessories,North,Online,3,32,0,96
+80,2025-09-27,Wireless Mouse,Accessories,West,Online,3,19,0,57
+68,2025-09-28,Mechanical Keyboard,Accessories,East,Online,3,68,0,204
+172,2025-09-28,Mechanical Keyboard,Accessories,West,Online,5,68,0.15,289.0
+139,2025-10-01,Webcam,Electronics,West,Retail,1,74,0,74
+112,2025-10-06,Monitor,Electronics,West,Online,3,215,0.15,548.25
+53,2025-10-10,Headphones,Electronics,East,Retail,4,59,0,236
+90,2025-10-11,Mechanical Keyboard,Accessories,North,Online,4,68,0,272
+13,2025-10-16,Mechanical Keyboard,Accessories,East,Retail,4,68,0,272
+145,2025-10-19,Monitor,Electronics,East,Retail,1,215,0.1,193.5
+48,2025-10-21,Laptop Stand,Accessories,South,Wholesale,3,32,0,96
+23,2025-10-22,USB-C Hub,Accessories,East,Online,3,45,0.15,114.75
+142,2025-10-22,Wireless Mouse,Accessories,East,Retail,5,19,0,95
+84,2025-10-23,Mechanical Keyboard,Accessories,East,Online,5,68,0.05,323.0
+56,2025-11-08,Monitor,Electronics,North,Retail,5,215,0.15,913.75
+87,2025-11-09,Wireless Mouse,Accessories,North,Online,1,19,0.15,16.15
+109,2025-11-12,Headphones,Electronics,South,Online,2,59,0,118
+5,2025-11-13,USB-C Hub,Accessories,North,Wholesale,1,45,0.1,40.5
+34,2025-11-14,Wireless Mouse,Accessories,East,Wholesale,3,19,0.1,51.3
+122,2025-11-14,Monitor,Electronics,South,Online,3,215,0,645
+176,2025-11-14,Monitor,Electronics,North,Wholesale,5,215,0,1075
+35,2025-11-15,Webcam,Electronics,South,Online,1,74,0,74
+171,2025-11-18,Mechanical Keyboard,Accessories,West,Online,1,68,0.05,64.6
+119,2025-11-21,Laptop Stand,Accessories,East,Retail,2,32,0.1,57.6
+74,2025-11-22,External SSD,Electronics,South,Online,3,110,0.15,280.5
+151,2025-11-27,Wireless Mouse,Accessories,East,Wholesale,1,19,0,19
+58,2025-11-28,USB-C Hub,Accessories,East,Retail,2,45,0,90
+148,2025-11-29,Laptop Stand,Accessories,South,Retail,1,32,0,32
+138,2025-12-04,Headphones,Electronics,East,Online,2,59,0.15,100.3
+99,2025-12-09,Mechanical Keyboard,Accessories,North,Wholesale,1,68,0.1,61.2
+4,2025-12-10,Headphones,Electronics,East,Retail,3,59,0,177
+97,2025-12-10,Laptop Stand,Accessories,West,Retail,4,32,0,128
+47,2025-12-13,Headphones,Electronics,West,Online,3,59,0.05,168.15
+28,2025-12-16,Monitor,Electronics,West,Online,4,215,0.1,774.0
+115,2025-12-16,Monitor,Electronics,North,Online,2,215,0.05,408.5
+85,2025-12-20,Monitor,Electronics,South,Wholesale,1,215,0,215
+146,2025-12-20,USB-C Hub,Accessories,West,Retail,5,45,0.15,191.25
+117,2025-12-24,Wireless Mouse,Accessories,East,Wholesale,4,19,0,76
+166,2025-12-24,External SSD,Electronics,North,Retail,4,110,0,440
+45,2025-12-26,Monitor,Electronics,South,Wholesale,1,215,0,215
+77,2025-12-26,Webcam,Electronics,North,Wholesale,1,74,0,74
